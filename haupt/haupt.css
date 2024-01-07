@@ -1,0 +1,149 @@
+
+
+.center {
+    position: relative;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    width: 60vw;
+    height: 70vw;
+}
+
+
+
+.first {
+    padding-top: 10vw;
+    text-align: center;
+    
+}
+.first img {
+    position: relative;
+    float: none;
+    margin-left: 22.5vw;
+    margin-right: 22.5vw;
+}
+
+.first p {
+    position: relative;
+    padding-top: 1vw;
+    font-size: xx-large;
+    text-align: center;
+    width: 30vw;
+    margin-left: 35vw ;
+}
+
+
+.second {
+    position: relative;
+    margin-top: 4vw;
+    
+}
+
+.second a {
+    position: relative;
+    float: left;
+    padding-right: 5vw;
+}
+
+.second p {
+    position: relative;
+    
+    margin-top: -0.5vw;
+    font-size: 23px;
+}
+
+.second img {
+    position: relative;
+    width: 30vw;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header a:hover {
+    color: grey;
+}
+
+.stage1 {
+    position: relative;
+    margin-bottom: 20vw;
+}
+
+header {
+    width: 100vw;
+    text-align: center;   
+    background-image: url(/images/IMG_4764.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header a {
+    font-weight: 900;
+    text-decoration: none;
+    color: black; /* сделано для видимости. Дальше тект заменим на белый*/
+    padding-left: 25px;
+    cursor: pointer;
+    font-size: x-large;
+}
+
+.third {
+    position: relative;
+    margin-top: 4vw;
+}
+
+.third a {
+    position: relative;
+    float: right;
+}
+
+.third p {
+    position: relative;
+    
+    font-size: 23px;
+    margin-right: 5vw;
+}
+
+.third img {
+    position: relative;
+    width: 30vw;
+    
+}
+
+.fourth {
+    position: relative;
+    margin-top: 4vw;
+}
+
+.fourth a {
+    position: relative;
+    float: left;
+    padding-right: 5vw;
+}
+
+.fourth p {
+    position: relative;
+    font-size: 22px;
+}
+
+.fourth img {
+    position: relative;
+    width: 30vw;
+}
+
+.we {
+    text-align: center;
+    font-size: x-large;
+    font-weight: 400;
+}
+
+.names {
+    position: relative;
+    margin-left: 30vw;
+    padding-top: 5vw;
+}
+.names img {
+    width: 15vw;
+    height: 15vw;
+    padding-right: 10vw;
+}
